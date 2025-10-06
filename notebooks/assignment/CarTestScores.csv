@@ -1,0 +1,21 @@
+Nickname,Brand,Model_Line,Feature_Category,Test_Distance_km,Performance_Score
+Falcon,Ford,Mustang,Engine,500,88
+Falcon,Ford,Mustang,Transmission,480,85
+Falcon,Ford,Mustang,Suspension,510,90
+Falcon,Ford,Mustang,Infotainment,450,82
+Falcon,Ford,Mustang,Safety Systems,530,91
+Strider,Toyota,Corolla,Engine,470,78
+Strider,Toyota,Corolla,Transmission,460,74
+Strider,Toyota,Corolla,Suspension,520,81
+Strider,Toyota,Corolla,Infotainment,430,70
+Strider,Toyota,Corolla,Safety Systems,490,76
+Nova,Tesla,Model 3,Battery,600,94
+Nova,Tesla,Model 3,Autopilot,580,88
+Nova,Tesla,Model 3,Infotainment,590,91
+Nova,Tesla,Model 3,Safety Systems,610,96
+Ranger,Honda,Civic,Engine,460,72
+Ranger,Honda,Civic,Transmission,440,70
+Ranger,Honda,Civic,Suspension,470,75
+Ranger,Honda,Civic,Infotainment,450,73
+Aero,BMW,3 Series,Engine,490,87
+Aero,BMW,3 Series,Transmission,485,86
